@@ -15,6 +15,6 @@
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django" /><br>
     <img src="https://skillicons.dev/icons?i=c,javascript,html,css" /><br>
 </div>
